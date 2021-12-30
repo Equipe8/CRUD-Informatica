@@ -54,3 +54,7 @@
 **sudo node index.js &**
 
 ## **Imagem Demo do nosso projeto:**
+
+<p align="left">
+  <img height="500" width"500" src="crud-informatica-grupo8-main/crud-informatica-grupo8-main/demo-crud.png">
+  </p>
