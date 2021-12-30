@@ -35,11 +35,11 @@
 
 ## 📌 Recursos usados neste projeto:
 
-<img align="center" alt="icon-js" height="30" width="40" src="icons/visual-studio-code-logo-svg-vector.svg" style="max-width:100%;"></img> **Visual Studio Code -  (https://code.visualstudio.com/Download)**
+<img align="center" alt="icon-js" height="30" width="40" src="crud-informatica-grupo8-main/crud-informatica-grupo8-main/icons/visual-studio-code-logo-svg-vector.svg" style="max-width:100%;"></img> **Visual Studio Code -  (https://code.visualstudio.com/Download)**
 
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;"></img> **NodeJS - (https://nodejs.org/en/)**
 
-<img align="center" alt="icon-js" height="60" width="90" src="icons/microsoft_azure_logo_icon_168977.svg" style="max-width:100%;"></img> **Microsoft Azure -  (https://azure.microsoft.com/pt-br/)**
+<img align="center" alt="icon-js" height="60" width="90" src="crud-informatica-grupo8-main/crud-informatica-grupo8-main/icons/microsoft_azure_logo_icon_168977.svg" style="max-width:100%;"></img> **Microsoft Azure -  (https://azure.microsoft.com/pt-br/)**
 
 ## :information_source: **Acesse nossa demo no Azure --> (http://crud-informatica.eastus.cloudapp.azure.com/origlistaaz.html)**
 
